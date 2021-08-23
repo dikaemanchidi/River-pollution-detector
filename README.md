@@ -21,7 +21,8 @@ Wireframe
   https://app.diagrams.net/
   
   ![ER1 (1)](https://user-images.githubusercontent.com/81798427/130376361-e82f3572-d5b6-45bf-adfe-92f0e5bf2620.png)
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/81798427/130376568-c5b6ce14-795e-4bf1-84fe-66f2d61d8f92.png)
+![Untitled Diagram (3)](https://user-images.githubusercontent.com/81798427/130376769-a73a348f-d10b-4b19-8655-751d09aa5e6f.png)
+
 
   
   
