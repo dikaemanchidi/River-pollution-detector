@@ -1,4 +1,4 @@
-![ER1](https://user-images.githubusercontent.com/81798427/130376193-e3bd2946-1037-432e-90db-e2bd83b7b314.png)
+
 # River-pollution-detector
 Development Langauge
    ruby 2.6.5
@@ -19,5 +19,9 @@ Wireframe
   https://cacoo.com/diagrams/IIxVvGeYUmZUIZx7/91094
   
   https://app.diagrams.net/
+  
+  ![ER1 (1)](https://user-images.githubusercontent.com/81798427/130376361-e82f3572-d5b6-45bf-adfe-92f0e5bf2620.png)
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/81798427/130376568-c5b6ce14-795e-4bf1-84fe-66f2d61d8f92.png)
+
   
   
