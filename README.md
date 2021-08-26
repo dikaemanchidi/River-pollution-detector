@@ -1,8 +1,8 @@
 
 # River-pollution-detector
-Development Langauge
-   ruby 2.6.5
-   rails 5.2.5
+## Development Langauge
+   *ruby 2.6.5
+   *rails 5.2.5
 Employment term technology
    devise
    AWS
